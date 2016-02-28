@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/var/www/sites/yii2sport.loc/models/LoginForm.php</file>
+            <file>file:/var/www/sites/yii2sport.loc/models/User.php</file>
+            <file>file:/var/www/sites/yii2sport.loc/models/SignupForm.php</file>
+            <file>file:/var/www/sites/yii2sport.loc/controllers/SiteController.php</file>
+            <file>file:/var/www/sites/yii2sport.loc/views/site/login.php</file>
+            <file>file:/var/www/sites/yii2sport.loc/views/site/_reg.php</file>
+            <file>file:/var/www/sites/yii2sport.loc/config/web.php</file>
+            <file>file:/var/www/sites/yii2sport.loc/views/site/_login.php</file>
+            <file>file:/var/www/sites/yii2sport.loc/web/css/site.css</file>
+        </group>
+    </open-files>
+</project-private>
